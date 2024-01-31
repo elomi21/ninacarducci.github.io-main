@@ -42,6 +42,7 @@ body {
 	width: 20px;
 }
 
+
 #about {
 	display: flex;
 	background-color: #F6D2B8;
@@ -68,7 +69,8 @@ body {
 }
 
 .picture img {
-	width: 100%;
+	width: 463px;
+	height: 462px;
 
 }
 #about-me {
@@ -125,6 +127,11 @@ body {
 	height: 100%;
 	object-fit: cover;
 	padding: .5em;
+}
+
+.gallery-item img{
+	width: 440px;
+	height:440px;
 }
 .mg-prev, .mg-next {
 	width: 30px;
@@ -210,6 +217,11 @@ body {
 	bottom: 0;
 	right: 0;
 	z-index: -1;
+}
+
+.picture.picture.right img {
+	width: 419px;
+	height:450px;
 }
 .form-container {
 	flex : 2;
