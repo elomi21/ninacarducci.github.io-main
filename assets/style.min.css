@@ -98,6 +98,12 @@ body {
 #gallery {
 	/*	min-height: 100vh; */
 }
+
+.carousel-item img {
+	width: 1630px;
+	height: 754px;
+}
+
 .title{
 	text-align: center;
 	padding-block: 2em;
