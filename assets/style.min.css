@@ -366,6 +366,10 @@ input[type="submit"] {
     padding-block: 1em;
     text-align: center;
   }
+   .carousel-item img {
+  
+  height: 100%;
+}
   .picture.left::before,
   .picture.right::before {
     height: 150px;
