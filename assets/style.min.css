@@ -256,7 +256,7 @@ input[type="submit"] {
   background-color: #beb45a;
   padding: 0.5em 1em;
 }
-.info-container{
+.info-container {
   margin-top: 20px;
 }
 
@@ -366,10 +366,9 @@ input[type="submit"] {
     padding-block: 1em;
     text-align: center;
   }
-   .carousel-item img {
-  
-  height: 100%;
-}
+  .carousel-item img {
+    height: 100%;
+  }
   .picture.left::before,
   .picture.right::before {
     height: 150px;
