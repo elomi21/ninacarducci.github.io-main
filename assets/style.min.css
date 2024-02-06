@@ -256,6 +256,9 @@ input[type="submit"] {
   background-color: #beb45a;
   padding: 0.5em 1em;
 }
+.info-container{
+  margin-top: 20px;
+}
 
 @media all and (max-width: 1180px) {
   .picture {
