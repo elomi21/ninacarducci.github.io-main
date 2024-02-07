@@ -400,4 +400,29 @@ input[type="submit"] {
     width: 100%;
     height: 100%;
   }
+   blockquote{
+  margin-left: 10px;
+  margin-right: 10px;
+ }
+ .quote{
+  padding-block: 1em;
+ }
+  .quote__text {
+    font-size: 18px;
+  }
+  .quote__author {
+    font-size: 16px;
+  }
+  .service__description p{
+    font-size: 14px;
+  }
+  .service__price :first-child {
+  font-size: 18px;
+}
+.service__price span {
+  font-size:14px;
+}
+.info-container p{
+  font-size: 14px;
+}
 }

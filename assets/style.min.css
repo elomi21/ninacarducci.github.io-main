@@ -349,6 +349,7 @@ input[type="submit"] {
 }
 
 @media all and (max-width: 650px) {
+  
   .top-header {
     flex-direction: column;
     padding-inline: 0;
@@ -362,6 +363,9 @@ input[type="submit"] {
     flex: 1;
     padding-block: 1em;
     text-align: center;
+  }
+  .top-header .nav ul{
+    font-size: 12px;
   }
   .carousel-item img {
     height: 100%;
@@ -390,6 +394,9 @@ input[type="submit"] {
     padding-inline: 2em;
     padding-block: 2em;
   }
+  #about h2{
+    font-size: 24px;
+  }
   form {
     width: 100%;
   }
@@ -400,4 +407,29 @@ input[type="submit"] {
     width: 100%;
     height: 100%;
   }
+ blockquote{
+  margin-left: 10px;
+  margin-right: 10px;
+ }
+ .quote{
+  padding-block: 1em;
+ }
+  .quote__text {
+    font-size: 18px;
+  }
+  .quote__author {
+    font-size: 16px;
+  }
+  .service__description p{
+    font-size: 14px;
+  }
+  .service__price :first-child {
+  font-size: 18px;
+}
+.service__price span {
+  font-size:14px;
+}
+.info-container p{
+  font-size: 14px;
+}
 }
