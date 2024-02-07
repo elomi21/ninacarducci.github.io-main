@@ -845,7 +845,7 @@ progress {
   transition: transform 0.6s ease-in-out;
 }
 .carousel-item img {
-  height: 754px;
+  height: 625px;
 }
 @media (prefers-reduced-motion: reduce) {
   .carousel-item {
