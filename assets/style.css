@@ -363,7 +363,7 @@ input[type="submit"] {
     text-align: center;
   }
   .carousel-item img {
-  height: 300px;
+  height: auto;
 }
 
   .picture.left::before,
