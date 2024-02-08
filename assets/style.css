@@ -405,6 +405,7 @@ input[type="submit"] {
  }
  .quote{
   padding-block: 1em;
+  width: 100%;
  }
   .quote__text {
     font-size: 18px;
