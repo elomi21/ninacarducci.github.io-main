@@ -192,7 +192,7 @@ body {
   z-index: 1;
 }
 .service__price :first-child {
-  font-size: 22px;
+  font-size: 18px;
   margin-bottom: 8px;
 }
 
